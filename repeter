@@ -1,0 +1,9 @@
+
+echo "# peterraju" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/peterraju/peterraju.git
+git push -u origin main
+<h1/>hai  iam peter <h2/>
